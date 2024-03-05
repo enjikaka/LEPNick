@@ -1,0 +1,15 @@
+name: LEPNick
+main: se.enji.lep.Nick
+author: enjikaka
+website: http://enji.se
+version: 0.1
+
+commands:
+    nick:
+        description: Change nickname.
+        usage: Type /<command> to change your nickname.
+        permission: lep.nick.change
+
+permissions:
+    lep.nick:
+        description: Gives access to all Nick commands.

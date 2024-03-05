@@ -1,0 +1,9 @@
+messages:
+    change-name:
+        text: "§e%p logged in."
+        enable: true
+    leave-server:
+        text: "§e%p logged out."
+        enable: true
+alias:
+    console: "Server"
